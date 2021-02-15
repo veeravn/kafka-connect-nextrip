@@ -1,0 +1,8 @@
+*.iml
+.idea
+.gradle
+.DS_Store
+build
+out
+/lib/
+/data/container_data/
